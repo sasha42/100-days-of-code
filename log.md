@@ -15,3 +15,12 @@
 **Today's Progress**: Played with methods to change LED strips smoothly, looked into how [this](https://github.com/apexskier/ledDriver) library implemented it. Not much progress.
 
 **Thoughts** Had a hard time focusing on the code, tried a number of different methods and didn't find something that worked well.
+
+### Day 3: January 5th, Thursday
+
+**Today's Progress**: Played with more methods to change LEDs smoothly. Distilled code down to its essense and created a loop to test out various methods of cycling smoothly. 
+
+**Thoughts** Got stuck installing jupyter notebook on the Pi. Need to find a better way to focus.
+
+**Link(s) to work**
+1. [Smooth LED pulse](https://gist.github.com/sasha42/ff25bb59b50adf03359bb1d3265d8d78)
