@@ -24,3 +24,11 @@
 
 **Link(s) to work**
 1. [Smooth LED pulse](https://gist.github.com/sasha42/ff25bb59b50adf03359bb1d3265d8d78)
+
+### Day 4: January 6th, Friday
+
+**Today's Progress**: Played with more methods to change LEDs smoothly. Actually got something to work from the [library I treid on Wednesday](https://github.com/apexskier/ledDriver)! Also discovered the `echo "hello" | wall` which sends messages to other connected users ;).
+
+**Thoughts** Good hacking. Will hack into the night.
+
+**Link(s) to work** (soon)
