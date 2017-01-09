@@ -32,3 +32,12 @@
 **Thoughts** Good hacking. Will hack into the night.
 
 **Link(s) to work** (soon)
+
+### Day 5: January 9th, Friday
+
+**Today's Progress**: Played with more methods to change LEDs smoothly again, figured out that there is actually a limitation with time accuracy on the Pi - moving onto hardware to smoothen out the signal. Played a bit with code but mostly just debugging.
+
+![that is supposed to be straighter](https://cloud.githubusercontent.com/assets/1775702/21787055/67aeb1f2-d6c7-11e6-8282-1959c85be0fb.png)
+![moving onto hardware](https://cloud.githubusercontent.com/assets/1775702/21787089/8872525e-d6c7-11e6-95ab-c500d833307c.png)
+
+**Thoughts** Kinda bummed out that I didn't code on the weekend. Happy to see progress on a project that I rarely get time to work on!
